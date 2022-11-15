@@ -1,3 +1,3 @@
 # A SIMPLE LINUX INTERPRETER
-# By
+# BY
 # Barret Ewela Akhatsokhe & Emmanuel Uzoekwe
